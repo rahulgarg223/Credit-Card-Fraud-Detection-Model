@@ -79,11 +79,11 @@ SMOTE (Synthetic Minority Oversampling Technique)
 
 ## Models Implemented:
 
-### Logistic Regression
+#### Logistic Regression
 
-### Decision Tree
+#### Decision Tree
 
-### Random Forest
+#### Random Forest
 
 ## Evaluation Metrics:
 
