@@ -19,7 +19,7 @@ A machine learning-based project to detect fraudulent credit card transactions u
 
 ### Contributing
 
-##3 License
+### License
 
 ## Overview
 Credit card fraud detection is crucial for financial institutions and customers alike. In this project, we build and evaluate machine learning models to classify transactions as fraudulent or legitimate. The key challenge tackled here is the extreme class imbalance in the dataset.
