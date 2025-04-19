@@ -2,26 +2,26 @@
 
 A machine learning-based project to detect fraudulent credit card transactions using real-world datasets and classification models.
 
-# Table of Contents
+## Table of Contents
+### Overview
+
+### Dataset
+
+### Installation
+
+### Usage
+
+### Modeling Approach
+
+### Results
+
+### Technologies Used
+
+### Contributing
+
+##3 License
+
 ## Overview
-
-## Dataset
-
-## Installation
-
-## Usage
-
-## Modeling Approach
-
-## Results
-
-## Technologies Used
-
-## Contributing
-
-## License
-
-# Overview
 Credit card fraud detection is crucial for financial institutions and customers alike. In this project, we build and evaluate machine learning models to classify transactions as fraudulent or legitimate. The key challenge tackled here is the extreme class imbalance in the dataset.
 
 ## Dataset
@@ -95,11 +95,11 @@ AUC-ROC Curve
 
 ## Results
 
-Model	Accuracy	Precision	Recall	F1-Score	ROC-AUC
-LogisticRegression	99.3%	82.1%	91.4%	86.5%	0.973
-RandomForest	99.9%	92.7%	95.6%	94.1%	0.988
-XGBoost	99.9%	94.2%	96.1%	95.1%	0.991
-Best performance achieved with XGBoost using SMOTE.
+#### Model	Accuracy	Precision	Recall	F1-Score	ROC-AUC
+#### LogisticRegression	99.3%	82.1%	91.4%	86.5%	0.973
+#### RandomForest	99.9%	92.7%	95.6%	94.1%	0.988
+
+Best performance achieved with RandomForest.
 
 ## Technologies Used
 Python
